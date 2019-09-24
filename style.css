@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+}
+
+.form {
+    width: 400px;
+    font-weight: bold;
+
+
+}
+
+#submitButton {
+    background-color: blue;
+    color: white;
+    padding: 4px 8px 4px 8px;
+    border-radius: 10px;
+}
